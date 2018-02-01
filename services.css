@@ -1,0 +1,11 @@
+body{
+	font-family:cursive;
+	font-size: 120%;
+	margin: 0px;
+	background-color: black;
+	background-image: url(beach.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	align-content: center;
+}
